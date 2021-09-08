@@ -5,6 +5,7 @@ In my working history I worked as automation test engineer.<br>
 
 ## showing table format
 |FOODS|DRINKS|
+|---|---|
 |1.pizza|1.pepsi|
 |2.burger|2.coke|
 |3.pasta|3.breezer|
