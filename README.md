@@ -20,3 +20,39 @@ at over 12.2 million, it has the largest population of any city in the state Hyd
         * shoes
         * jackets
         * tents
+
+**[ABOUT ME](AboutMe.md)**
+
+---
+
+# Tables
+
+## showing table format
+
+|FOODS|
+|---|
+|Pizza|
+|Burger|
+|Pasta|
+|Biryani|
+
+<br>
+This is a table showing the data related to my favourite items 
+where I would recommend to someone.
+
+|FOODS|LOCATION|AMOUNT|
+|---|---|---|
+|Pizza|Dominos Pizza|$20|
+|Burger|Bburger King|$10|
+|Pasta|Wall Mart|$5|
+|Biryani|Bawarchi|$15|
+
+*** 
+
+## Pithy Quotes
+
+> That which does not kill us makes us stronger.
+_ *Friedrich Nietzsche*
+
+> We must not allow other people’s limited perceptions to define us.
+_ *Virginia Satir*
