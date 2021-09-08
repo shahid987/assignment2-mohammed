@@ -2,7 +2,7 @@
 # Mohammed Shahid
 ###### Hyderabad
 at over 12.2 million, it has the largest population of any city in the state Hyderabad is an A-1 city under the terms of development priorities. It is also known as **city of pearls or city of Nizams**. The people of Hyderabad are called **Hyderabadis**.
-1. ---
+- 
 # Travel instructions
 1. The fastest and safest travel would be through flight,  
     1. first we need to book flight from LA to hyderabad
