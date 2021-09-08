@@ -6,10 +6,10 @@ In my working history I worked as automation test engineer.<br>
 ## showing table format
 |FOODS|
 |---|
-|1.pizza|
-|2.burger|
-|3.pasta|
-|4.biryani|
+|Pizza|
+|Burger|
+|Pasta|
+|Biryani|
 
 <br>
 This is a table showing the data related to my favourite items 
@@ -17,8 +17,8 @@ where I would recommend to someone.
 
 |FOODS|LOCATION|AMOUNT|
 |---|---|---|
-|1.pizza|1.dominos pizza|$20|
-|2.burger|2.burger king|$10|
-|3.pasta|3.wall mart|$5|
-|4.biryani|4.bawarchi|$15|
+|Pizza|Dominos Pizza|$20|
+|Burger|Bburger King|$10|
+|Pasta|Wall Mart|$5|
+|Biryani|Bawarchi|$15|
 
